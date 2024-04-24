@@ -60,8 +60,8 @@ The above project investigates customer behavior on the Starbucks rewards mobile
 * │  ├── portfolio        # Calendar data from Kaggle
 * │  ├── profile        # Listings data from Kaggle
 * │  └── transcript          # Reviews data from Kaggle
-* ├── notebooks/
-* │  ├── Jupyter note processed data  # Feature/amenity analysis
+* ├── Jupyter note processed data  # Feature/amenity analysis
+* ├── best_model_rf  # Best model pkl file
 * ├── README.md              # Project documentation
 * ├── LICENSE                # License information
 
